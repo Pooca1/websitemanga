@@ -2,10 +2,9 @@
 
 body{
     margin: 0;
-    background-image: url("../background/BackgroundMovie.gif");
+    background-image: url("../img/tigerscans-background.png");
     background-size: cover;
     background-attachment: fixed;
-
 }
 
 .sidebar {
